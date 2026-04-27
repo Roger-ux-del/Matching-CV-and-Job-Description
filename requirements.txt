@@ -1,0 +1,13 @@
+transformers
+sentence-transformers
+gensim
+scikit-learn
+spacy
+pdfplumber
+plotly
+nltk
+termcolor
+torch
+numpy
+pandas
+tqdm
