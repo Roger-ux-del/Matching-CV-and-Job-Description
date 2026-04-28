@@ -7,6 +7,7 @@ pdfplumber
 plotly
 nltk
 termcolor
+kagglehub
 torch
 numpy
 pandas
