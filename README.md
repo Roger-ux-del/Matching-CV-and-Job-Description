@@ -8,8 +8,8 @@
 
 | Dataset | Description |
 |---|---|
-| [54k Resume Dataset (structured)](https://www.kaggle.com/datasets/suriyaganesh/resume-dataset-structured) | 54,000 resumes split across 6 CSV files (people, abilities, skills, education, experience, person skills) |
-| [Job Description Dataset](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) | 40,000 job postings across multiple roles |
+| [54k Resume Dataset (structured)](https://www.kaggle.com/datasets/suriyaganesh/resume-dataset-structured) | 54,000 resumes split across 6 CSV files (people, abilities, skills, education, experience) |
+| [Job Description Dataset](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) | 1 million job postings across multiple roles |
 
 ---
 
@@ -18,6 +18,8 @@
 ```
 Matching-CV-and-Job-Description/
 ├── README.md
+├── notebook/
+│   └── Roger_Kouakou_nlp_report.pdf 
 ├── requirements.txt
 ├── .gitignore
 ├── notebook/
